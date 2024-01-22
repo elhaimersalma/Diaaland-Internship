@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccdc3ab6-b1d3-48fb-84e2-adeb4a2cc389" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/3.1.2/spring-boot-dependencies-3.1.2.pom" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Diaaland/ma/demo/entity/Experiences.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/application.properties" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2TLVjyAxVW7tqvJakGSheJXwjwv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Diaaland.ma.demo.DemoApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Diaaland.ma.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccdc3ab6-b1d3-48fb-84e2-adeb4a2cc389" name="Changes" comment="" />
+      <created>1690822497144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690822497144</updated>
+    </task>
+    <servers />
+  </component>
+</project>
